@@ -6,7 +6,7 @@
   <link href="https://zwl99.github.io/atom.xml" rel="self"/>
   
   <link href="https://zwl99.github.io/"/>
-  <updated>2021-06-25T00:48:41.083Z</updated>
+  <updated>2021-06-26T09:58:19.533Z</updated>
   <id>https://zwl99.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My new Post</title>
+    <link href="https://zwl99.github.io/2021/06/26/my-new-post/"/>
+    <id>https://zwl99.github.io/2021/06/26/my-new-post/</id>
+    <published>2021-06-26T09:58:19.000Z</published>
+    <updated>2021-06-26T09:58:19.533Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
